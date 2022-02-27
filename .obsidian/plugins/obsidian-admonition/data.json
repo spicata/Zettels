@@ -1,0 +1,40 @@
+{
+  "userAdmonitions": {
+    "Definition": {
+      "type": "Definition",
+      "color": "211, 117, 255",
+      "icon": {
+        "type": "octicons",
+        "name": "book"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": true,
+  "version": "7.0.1",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "syncLinks": true,
+  "injectColor": true,
+  "parseTitles": true,
+  "allowMSSyntax": true,
+  "msSyntaxIndented": true,
+  "livePreviewMS": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [
+    "octicons"
+  ],
+  "useFontAwesome": false,
+  "rpgDownloadedOnce": false
+}

@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "55ef43c4a725867d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f3898a5897e7b14",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82175568c1c48b6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4710f4f7f88977e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68104457380b876c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "93c544a266771518",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b41274c0e4b9993",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62e5011ba2f0fc83",
+    "type": "split",
+    "children": [
+      {
+        "id": "c94a59acb1bff0d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "657104051b17827f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6d119bd399323d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72dc21fe24f0ae0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cbaf925c0212289e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1c2c11dc3644a97d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb01cdffdfa619bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2f3898a5897e7b14",
+  "lastOpenFiles": [
+    "Reference/Genetics References.md",
+    "Zettelkasten/Traits.md",
+    "Zettelkasten/Punnett Square.md",
+    "Zettelkasten/Allele.md",
+    "Zettelkasten/Mendel.md",
+    "Zettelkasten/Chromosomes.md",
+    "Zettelkasten/Genetics.md",
+    "Zettelkasten/Interest.md",
+    "Files/Pasted image 20220227210953.png",
+    "Zettelkasten/Wrongful Conviction of Darryl Beamish.md"
+  ]
+}
