@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2f3898a5897e7b14",
+        "id": "24924ecce3a21604",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Cooling.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "h",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Cooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Cooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Cooling.md"
+              }
             }
           }
         ]
@@ -133,17 +141,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2f3898a5897e7b14",
+  "active": "24924ecce3a21604",
   "lastOpenFiles": [
-    "Reference/Genetics References.md",
-    "Zettelkasten/Traits.md",
-    "Zettelkasten/Punnett Square.md",
-    "Zettelkasten/Allele.md",
-    "Zettelkasten/Mendel.md",
+    "Zettelkasten/Cooling.md",
+    "Zettelkasten/Inheritance.md",
+    "Zettelkasten/GST.md",
+    "Zettelkasten/Factorising and Expanding.md",
+    "Zettelkasten/Decimal.md",
     "Zettelkasten/Chromosomes.md",
-    "Zettelkasten/Genetics.md",
-    "Zettelkasten/Interest.md",
-    "Files/Pasted image 20220227210953.png",
-    "Zettelkasten/Wrongful Conviction of Darryl Beamish.md"
+    "Zettelkasten/Allele.md",
+    "Zettelkasten/Wrongful Conviction of Darryl Beamish.md",
+    "Reference/Genetics References.md",
+    "Files/Pasted image 20220227210801.png"
   ]
 }

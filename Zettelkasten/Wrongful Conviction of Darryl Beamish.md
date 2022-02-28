@@ -1,18 +1,18 @@
-2202261743
+kuhvd2202261743
 
 Status: #atomic
 
-Tags: [[Faults in Law]]
+Tags: [[Faults in Law]], [[Natural Justice]]
 
 # Wrongful Conviction of Darryl Beamish
-## The Facts
 ```ad-tldr
 
 Mr Beamish was wrongful convicted of the murder of Jillian Brewer, and was sentenced to 15 years in jail.
 
 ```
+## Facts
 Darryl Beamish is a deaf-mute man, who spent 15 years in (now defunct) Fremantle jail.
-In 1961, Darryl Beamish, at the age of 18, was sentenced to jail, convicted of killed the 22 year old Jillian Brewer.
+In 1961, Darryl Beamish, at the age of 18, was sentenced to jail, convicted of killing the 22 year old Jillian Brewer in her Cottesloe flat.
 This was on the evidence of 4 separate confessions; 2 through a sign interpreter, and 2 written confessions.
 Darryl Beamish states that these confessions were forced, through intimidation and threats.
 In 1964, before his hanging, Eric Edgar Cooke confessed to murdering Brewer and Anderson.
@@ -35,14 +35,26 @@ This was done with the help of journalist Estelle Blackburn, Tom Percy, and soli
 Mr Beamish was paid $425,000 as ex-gratia payments for 15 years in jail in 2011.
 
 ```
-There has been debate whether the amounts of money given to John Button and Darryl Bea 
- mish was truly enough.
+There has been debate whether the amounts of money given to John Button and Darryl Beamish was truly enough.
+## Tentative
+It is said that Mr Beamish, along with being deaf, was also semi-illiterate.
 ## Repercussions
+```ad-tldr
+
+Evidence based decisions were not upheld, which undermined the rights of the victim and accused.
+
+```
+
 The imprisonment of Mr Beamish impacted his life greatly, as after release, he found it difficult to find a job (and more).
 It created mistrust in the Australian legal system, through the use of physical threats to force confessions, and the denying of later confessions.
-The rights of the victim and accused were undermined, as the police had forced confessions through threats, which does not uphold this principle of law.
+The rights of the victim and accused were undermined, as the police had forced confessions through threats, which does not uphold this principle of law. Furthermore, the opportunity to appeal the decision on the basis of new evidence or a fault in law was not given. 
 Despite the fact that the prosecution had little admissable evidence backing their claims, Mr Beamish was still persecuted, which challenges the evidence based decisions that should be made in court.
 The appeals process was also undermined, as, although there was new evidence and there had also been a fault in law, the higher courts quashed the appeals.
+
+---
+# Questions
+Why is the police and the government so bitter about it?
+Were the police in charge of the case punished for forced confessions?
 
 ---
 # References
