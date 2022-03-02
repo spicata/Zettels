@@ -11,6 +11,17 @@
       "injectColor": true,
       "noTitle": false,
       "copy": true
+    },
+    "Picture": {
+      "type": "Picture",
+      "color": "117, 255, 232",
+      "icon": {
+        "type": "octicons",
+        "name": "image"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "24924ecce3a21604",
+        "id": "84d232919748a4dd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Cooling.md",
-            "mode": "preview",
+            "file": "Zettelkasten/Interest.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,6 +70,7 @@
       {
         "id": "c94a59acb1bff0d4",
         "type": "tabs",
+        "dimension": 49.952335557673976,
         "children": [
           {
             "id": "657104051b17827f",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Cooling.md",
+                "file": "Zettelkasten/Interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Cooling.md",
+                "file": "Zettelkasten/Interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Cooling.md"
+                "file": "Zettelkasten/Interest.md"
               }
             }
           }
@@ -126,6 +127,7 @@
       {
         "id": "1c2c11dc3644a97d",
         "type": "tabs",
+        "dimension": 50.047664442326024,
         "children": [
           {
             "id": "eb01cdffdfa619bb",
@@ -141,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "24924ecce3a21604",
+  "active": "84d232919748a4dd",
   "lastOpenFiles": [
-    "Zettelkasten/Cooling.md",
-    "Zettelkasten/Inheritance.md",
-    "Zettelkasten/GST.md",
-    "Zettelkasten/Factorising and Expanding.md",
-    "Zettelkasten/Decimal.md",
-    "Zettelkasten/Chromosomes.md",
+    "Zettelkasten/Interest.md",
     "Zettelkasten/Allele.md",
+    "Zettelkasten/Mechanisms of Evolution.md",
+    "Zettelkasten/Factorising and Expanding.md",
     "Zettelkasten/Wrongful Conviction of Darryl Beamish.md",
-    "Reference/Genetics References.md",
-    "Files/Pasted image 20220227210801.png"
+    "Zettelkasten/Mendel.md",
+    "Files/Pasted image 20220301093459.png",
+    "Activity/Genetics Chapter 5 Review Questions.md",
+    "Zettelkasten/Decimal.md",
+    "Zettelkasten/GST.md"
   ]
 }
