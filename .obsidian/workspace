@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "84d232919748a4dd",
+        "id": "e805cd150cec6a4a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Interest.md",
+            "file": "Zettelkasten/Online Gaming.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fb170441244bd1f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Wrongful Conviction of Darryl Beamish.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "62e5011ba2f0fc83",
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Interest.md",
+                "file": "Zettelkasten/Online Gaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Interest.md",
+                "file": "Zettelkasten/Online Gaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Interest.md"
+                "file": "Zettelkasten/Online Gaming.md"
               }
             }
           }
@@ -141,19 +154,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "84d232919748a4dd",
+  "active": "e805cd150cec6a4a",
   "lastOpenFiles": [
-    "Zettelkasten/Interest.md",
-    "Zettelkasten/Allele.md",
-    "Zettelkasten/Mechanisms of Evolution.md",
-    "Zettelkasten/Factorising and Expanding.md",
+    "Zettelkasten/Online Gaming.md",
+    "Zettelkasten/Social Media.md",
+    "Zettelkasten/coolmathgames.com.md",
+    "Zettelkasten/Stages of the Web.md",
+    "Activity/Miscarriages of Justice study.md",
     "Zettelkasten/Wrongful Conviction of Darryl Beamish.md",
-    "Zettelkasten/Mendel.md",
-    "Files/Pasted image 20220301093459.png",
     "Activity/Genetics Chapter 5 Review Questions.md",
-    "Zettelkasten/Decimal.md",
-    "Zettelkasten/GST.md"
+    "Zettelkasten/acti.md",
+    "Activity/Genetics Activity 5.8.md",
+    "Files/Recording 20220303141457.webm"
   ]
 }

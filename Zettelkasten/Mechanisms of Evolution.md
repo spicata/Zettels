@@ -45,11 +45,13 @@ Environmental selection pressures such as food availability, predators, and some
 Individuals that have an advantageous allele are more likely to survive and to reproduce.
 #### Principle 5: Heritability
 Advantageous alleles are heritable.
+More likely to pass on alleles.
 #### Principle 6: Allele Frequency Change
 Over consecutive generations, the frequency of the advantageous alles increases.
 
 ---
 # Terminology
+
 
 ---
 # Question

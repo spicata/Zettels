@@ -19,6 +19,7 @@ Homozygous means to have two identical alleles in a pair.
 Heterozygous means to have two different alleles in a pair.
 Due to the nature of the dominant allele, it is always the one that is expressed.
 
+
 ---
 # Questions
 How are dominant and recessive alleles, well, dominant and recessive?

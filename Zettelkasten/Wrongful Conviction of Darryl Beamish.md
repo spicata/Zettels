@@ -44,7 +44,6 @@ It is said that Mr Beamish, along with being deaf, was also semi-illiterate.
 Evidence based decisions were not upheld, which undermined the rights of the victim and accused.
 
 ```
-
 The imprisonment of Mr Beamish impacted his life greatly, as after release, he found it difficult to find a job (and more).
 It created mistrust in the Australian legal system, through the use of physical threats to force confessions, and the denying of later confessions.
 The rights of the victim and accused were undermined, as the police had forced confessions through threats, which does not uphold this principle of law. Furthermore, the opportunity to appeal the decision on the basis of new evidence or a fault in law was not given. 

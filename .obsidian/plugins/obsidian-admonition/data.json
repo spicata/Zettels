@@ -22,6 +22,17 @@
       "command": false,
       "injectColor": true,
       "noTitle": false
+    },
+    "Key": {
+      "type": "Key",
+      "color": "239, 255, 10",
+      "icon": {
+        "type": "octicons",
+        "name": "key"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
