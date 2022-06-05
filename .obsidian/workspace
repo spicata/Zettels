@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "001 Atomics/10SCI - Transcription and Translation.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -71,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
