@@ -1,6 +1,13 @@
 [
   "obsidian-admonition",
   "sliding-panes-obsidian",
-  "highlightr-plugin",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-git",
+  "quick-latex",
+  "obsidian-day-planner",
+  "obsidian-citation-plugin",
+  "obsidian-discordrpc",
+  "better-word-count",
+  "obsidian-desmos",
+  "table-editor-obsidian"
 ]

@@ -1,0 +1,23 @@
+/* Different color for bold*/
+.cm-strong,
+.markdown-preview-section strong {
+  color: #DA6362 !important;
+}
+
+
+/* Different color for italic */
+.cm-em {
+    color: #55ac83;
+}
+
+.markdown-preview-section em {
+  color: #55ac83 !important;
+}
+
+.cm-strikethrough {
+  color: #859289
+}
+
+del {
+  color: #859289
+}

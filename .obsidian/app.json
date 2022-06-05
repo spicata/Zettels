@@ -2,7 +2,7 @@
   "legacyEditor": false,
   "livePreview": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Zettelkasten",
+  "newFileFolderPath": "001 Atomics",
   "attachmentFolderPath": "Files",
   "foldHeading": true,
   "showLineNumber": true,
@@ -11,8 +11,15 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 75
+    "downscalePercent": 80
   },
   "foldIndent": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "spellcheckLanguages": [
+    "en-GB",
+    "en-AU"
+  ],
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "rightToLeft": false
 }

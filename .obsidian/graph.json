@@ -2,50 +2,92 @@
   "collapse-filter": true,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "#atomic",
+      "query": "tag:#atomic",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#activity",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "#maps",
+      "query": "tag:#citations",
+      "color": {
+        "a": 1,
+        "rgb": 15001398
+      }
+    },
+    {
+      "query": "tag:#daily",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#clumps",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#text",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#task",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "#citations",
+      "query": "tag:#research",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#lesson",
       "color": {
         "a": 1,
         "rgb": 11621088
       }
     },
     {
-      "query": "#activity",
+      "query": "tag:#maps",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14701233
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 2.99210731381498,
+  "lineSizeMultiplier": 2.50363464321496,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.1668431118268292,
+  "centerStrength": 0.40860514304798,
+  "repelStrength": 15.7953912946677,
+  "linkStrength": 0.747022152955583,
+  "linkDistance": 401,
+  "scale": 0.036152754099273335,
   "close": true
 }

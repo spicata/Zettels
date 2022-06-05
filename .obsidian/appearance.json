@@ -1,7 +1,11 @@
 {
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Everforest",
   "baseFontSizeAction": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "Snippet"
+  ]
 }

@@ -37,15 +37,11 @@
   },
   "syntaxHighlight": false,
   "copyButton": true,
-  "version": "7.0.1",
+  "version": "9.0.3",
   "autoCollapse": true,
   "defaultCollapseType": "open",
-  "syncLinks": true,
   "injectColor": true,
   "parseTitles": true,
-  "allowMSSyntax": true,
-  "msSyntaxIndented": true,
-  "livePreviewMS": true,
   "dropShadow": true,
   "hideEmpty": false,
   "open": {
@@ -58,5 +54,12 @@
     "octicons"
   ],
   "useFontAwesome": false,
-  "rpgDownloadedOnce": false
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.de7b6b",
+  "syncLinks": true,
+  "allowMSSyntax": true,
+  "msSyntaxIndented": true,
+  "livePreviewMS": true
 }

@@ -1,0 +1,167 @@
+{
+  "workspaces": {
+    "pog": {
+      "main": {
+        "id": "55ef43c4a725867d",
+        "type": "split",
+        "children": [
+          {
+            "id": "e599a6e7ad3f6cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Claudia Tutoring 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72d6d0eddd01faab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Claudia Homework 2.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "82175568c1c48b6a",
+        "type": "split",
+        "children": [
+          {
+            "id": "4710f4f7f88977e5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "68104457380b876c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "93c544a266771518",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "--- | --- | --- | ---",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1b41274c0e4b9993",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "62e5011ba2f0fc83",
+        "type": "split",
+        "children": [
+          {
+            "id": "c94a59acb1bff0d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "657104051b17827f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Zettelkasten/Claudia Tutoring 3.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "b6d119bd399323d0",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Zettelkasten/Claudia Tutoring 3.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "72dc21fe24f0ae0f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "cbaf925c0212289e",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Zettelkasten/Claudia Tutoring 3.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "1c2c11dc3644a97d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb01cdffdfa619bb",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "e599a6e7ad3f6cd8"
+    }
+  },
+  "active": "pog"
+}

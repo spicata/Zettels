@@ -4,25 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "e805cd150cec6a4a",
+        "id": "eb899229b7d74a3d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Online Gaming.md",
-            "mode": "source",
+            "file": "001 Atomics/10SCI - Transcription and Translation.md",
+            "mode": "preview",
+            "backlinks": true,
             "source": false
           }
         }
       },
       {
-        "id": "fb170441244bd1f6",
+        "id": "4a89e934db7935cd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Wrongful Conviction of Darryl Beamish.md",
-            "mode": "source",
+            "file": "001 Atomics/10SCI - Protein Synthesis.md",
+            "mode": "preview",
+            "backlinks": true,
             "source": false
           }
         }
@@ -52,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "h",
+                "query": "tag:#citations",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +86,6 @@
       {
         "id": "c94a59acb1bff0d4",
         "type": "tabs",
-        "dimension": 49.952335557673976,
         "children": [
           {
             "id": "657104051b17827f",
@@ -91,14 +93,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Online Gaming.md",
+                "file": "001 Atomics/10SCI - Transcription and Translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -108,9 +110,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Online Gaming.md",
+                "file": "001 Atomics/10SCI - Transcription and Translation.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -131,43 +133,77 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Online Gaming.md"
+                "file": "001 Atomics/10SCI - Transcription and Translation.md"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "1c2c11dc3644a97d",
-        "type": "tabs",
-        "dimension": 50.047664442326024,
-        "children": [
+          },
           {
-            "id": "eb01cdffdfa619bb",
+            "id": "c4e14adb5f68969c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "380ae58f3f2e4433",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39739ae84d2d4dc9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "001 Atomics/10SCI - Transcription and Translation.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7278834536913343,
+                  "close": true
+                }
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "e805cd150cec6a4a",
+  "active": "eb899229b7d74a3d",
   "lastOpenFiles": [
-    "Zettelkasten/Online Gaming.md",
-    "Zettelkasten/Social Media.md",
-    "Zettelkasten/coolmathgames.com.md",
-    "Zettelkasten/Stages of the Web.md",
-    "Activity/Miscarriages of Justice study.md",
-    "Zettelkasten/Wrongful Conviction of Darryl Beamish.md",
-    "Activity/Genetics Chapter 5 Review Questions.md",
-    "Zettelkasten/acti.md",
-    "Activity/Genetics Activity 5.8.md",
-    "Files/Recording 20220303141457.webm"
+    "001 Atomics/10SCI - Transcription and Translation.md",
+    "001 Atomics/10SCI - Protein Synthesis.md",
+    "001 Atomics/Task 3 English Citations.md",
+    "001 Atomics/Journalling - 2022-05-05.md",
+    "001 Atomics/10PAL - International Politics.md",
+    "001 Atomics/Working Space.md",
+    "001 Atomics/Thinkers of Atomic Structure.md",
+    "00A Templates/Maps.md",
+    "001 Atomics/Genetics.md",
+    "001 Atomics/Classification of Vegetables.md"
   ]
 }
