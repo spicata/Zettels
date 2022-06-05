@@ -16,4 +16,4 @@ Tags: [[Biology]], [[10SCI]]
 5. Premature mRNA goes through splicing: introns are removed, exons joins. Mature mRNA exists via nuclear pores.
 6. mRNA attaches to ribosome; start codon first to be read.
 7. tRNA transports anticodon complementry to next codon inside ribosome. Simultaneously, tRNA transports the amino acid specified by the codon.
-8. Chain of amino acid grow connected by peptide bonds -> polypeptide dettaches + joins another polypeptide and folds. aa
+8. Chain of amino acid grow connected by peptide bonds -> polypeptide dettaches + joins another polypeptide and folds. 
