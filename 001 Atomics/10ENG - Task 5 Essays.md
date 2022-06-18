@@ -4,7 +4,10 @@ Status: #task
 
 Tags: [[10ENG]], [[10ENG - Task 4; August 2026, There Will Come Soft Rains]]
 
-# 10ENG - Task 5 Responding Essay
+# 10ENG - Task 5 Essays
+## Comprehension 1
+In Caro Cooper's feature article "an ode to the mid-afternoon "
+## Responding
 Understanding the context of production of a text enchances the interpretation of that story. This is exemplified in Ray Bradbury’s “There Will Come Soft Rains”, a speculative science-fiction short story set in a post-apocolyptic world, which depicts an automated house that carries on its duties despite the extinction of its human inhabitants. Bradbury wrote this text shortly after the end of World War Two, and admist the Cold War. He reflects the anti-war sentiment of society at that time, and shows humanity’s weariness of new technology. Furthermore, he depicts nature reclaiming the world, emphasising the true brevity of human kind illustrated in the World Wars.
 
 Bradbury, having seen the destruction caused by the bombings of Hiroshima and Nagasaki, mirrors many authors critisms of War, particularly the use of nuclear weaponary. He establishes the setting when he describes a “ruined city [that] gave off a radioactive glow which could be seen for miles”, his use of visual imagery sets the world as one suffering from his use of visual imagery sets the world as one suffering from nuclear fallout. When he states that "the house stood alone in a city of rubble and ashes", he juxtaposes the house as an exception, not the norm, of nuclear war. These fears are understandable when considering the context of production, when the advent of nuclear weaponary threatened humanity. We are only introduced to **[illegable]** family that used to **[illegable]** when Bradbury portrays "five spots of paint, the man, the woman, the children, the ball - remained", where he alludes to the human shadow of death, an imprint left aftre the bombing of Hiroshima, showing the true horrors of war, and Brabury's, as well as society's, fear of nuclear warfare.
