@@ -2,7 +2,7 @@
 
 Status: #clumps #review
 
-Tags: [[PAL]]
+Tags: [[10PAL]]
 
 # 10PAL- International Politics
 ## Keywords

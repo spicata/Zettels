@@ -2,7 +2,7 @@
 
 Status: #clumps 
 
-Tags: [[PAL]]
+Tags: [[10PAL]]
 
 # 10PAL - Topic 1
 ## Adversarial System

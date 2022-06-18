@@ -1,8 +1,8 @@
 2022-04-04 16:26
 
-Status: #atomic
+Status: #review
 
-Tags: [[Math]]
+Tags: [[10MAT]]
 
 # 10MAT - Functions (Linear, Quadratic) Notes [^1]
 ## Chapter 1: Functions
@@ -48,11 +48,11 @@ Tags: [[Math]]
 	- Line of symmetry at $\frac{b+c}2$.
 - By subbing in $x$ values into general form:
   
-x | 0 | 1 | 2| 3|...
---- | --- | --- |---|---|---
-y | $c$ | $a+b+c$ | $4a+2b+c$|$9a+3b+c$|...
-1st | a+b|3a+b|5a+b|...|...
-2nd | 2a|2a|...|...|...
+| x   | 0     | 1       | 2         | 3         | ... |
+| --- | ----- | ------- | --------- | --------- | --- |
+| y   | $c$   | $a+b+c$ | $4a+2b+c$ | $9a+3b+c$ | ... |
+| 1st | $a+b$ | $3a+b$  | $5a+b$    | ...       | ... |
+| 2nd | $2a$  | $2a$    | ...       | ...       | ... |
 - Oh yeah, and ***completing the square.***
 
 ---

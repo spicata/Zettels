@@ -2,7 +2,7 @@
 
 Status: #research
 
-Tags: [[Faults in Law]] [[Natural Justice]] [[PAL]]
+Tags: [[Faults in Law]] [[Natural Justice]] [[10PAL]]
 
 # Miscarriages of Justice study
 ## Impartial Adjudication

@@ -2,7 +2,7 @@
 
 Status: #clumps 
 
-Tags: [[TCS]]
+Tags: [[10TCS]]
 
 # 10TCS - Hardware
 ## CPU

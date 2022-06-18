@@ -2,7 +2,7 @@
 
 Status: #atomic
 
-Tags: [[TCS]]
+Tags: [[10TCS]]
 
 # 10TCS - Databases
 ## Chapter 1: Types of Databases

@@ -2,7 +2,7 @@
 
 Status: #clumps
 
-Tags: [[TCS]]
+Tags: [[10TCS]]
 
 # 10TCS - Student-made Topics
 ## Chapter 1: Operating System [^1]

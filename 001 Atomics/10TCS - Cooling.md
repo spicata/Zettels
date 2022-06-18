@@ -2,9 +2,9 @@
 
 Status: #atomic
 
-Tags: [[Hardware]]
+Tags: [[10TCS]]
 
-# Cooling
+# 10TCS - Cooling
 ## Cooling in Computers
 Cooling is used to keep the computer hardware (predominantly CPU) cool, as if a computer overheats, it can cause the performance to suffer.
 Although it exists in laptops, it is more closely related to desktops.

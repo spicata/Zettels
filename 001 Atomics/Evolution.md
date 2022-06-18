@@ -2,9 +2,9 @@
 
 Status: #atomic
 
-Tags: [[Evolution]]
+Tags: [[Evolution]], [[10SCI]]
 
-# Evolution
+# 10SCI - Evolution
 ```ad-Definition
 
 Evolution is a cumulative, hereditary change in a population over a long period of time (many generations)

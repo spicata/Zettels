@@ -5,8 +5,3 @@ Status: #atomic
 Tags:
 
 # {{title}}
-
-
----
-# Question
-

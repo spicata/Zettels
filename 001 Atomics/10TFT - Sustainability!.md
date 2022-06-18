@@ -2,7 +2,7 @@
 
 Status: #research
 
-Tags: [[TFT]]
+Tags: [[10TFT]]
 
 # 10TFT - Sustainability
 ## 3 pillars of sus

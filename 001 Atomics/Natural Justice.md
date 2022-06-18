@@ -2,7 +2,7 @@
 
 Status: #waypoints
 
-Tags: [[PAL]]
+Tags: [[10PAL]]
 
 # Natural Justice
 

@@ -2,9 +2,9 @@
 
 Status: #atomic
 
-Tags: [[Mechanisms of Evolution]]
+Tags: [[Mechanisms of Evolution]], [[10SCI]]
 
-# Genetic Drift
+# 10SCI - Genetic Drift
 Almost contrary to natural selection.
 Genertic drift occures in all population, but its effects are strongest in small populations. The smaller the population, the faster the fixation of alleles and the extinction of other alleles can occur.
 The random changes from generation to generation can be either external or can be internal, as during meiosis.

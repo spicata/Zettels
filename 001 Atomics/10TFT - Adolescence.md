@@ -2,7 +2,7 @@
 
 Status: #lesson 
 
-Tags: [[TFT]]
+Tags: [[10TFT]]
 
 # 10TFT - Adolescence
 - **12** to **18**

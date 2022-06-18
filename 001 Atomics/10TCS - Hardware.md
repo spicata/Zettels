@@ -2,7 +2,7 @@
 
 Status: #lesson 
 
-Tags: [[TCS]]
+Tags: [[10TCS]]
 
 # 10TCS - Hardware
 **SEE: [[10TCS - Software]]**

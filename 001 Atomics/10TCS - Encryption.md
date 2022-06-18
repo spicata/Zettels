@@ -2,7 +2,7 @@
 
 Status: #research #task
 
-Tags: [[TCS]]
+Tags: [[10TCS]]
 
 # 10TCS - Encryption
 **Scope: An introduction into ciphers, including famous ones, and a quick view at how modern encryption actually works.**

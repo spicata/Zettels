@@ -2,9 +2,9 @@
 
 Status: #atomic
 
-Tags: [[Mechanisms of Evolution]]
+Tags: [[Mechanisms of Evolution]] [[10SCI]]
 
-# Gene Flow
+# 10SCI - Gene Flow
 Gene flows happen immigration and emigration.
 ```ad-Picture
 

@@ -2,7 +2,7 @@
 
 Status: #lesson
 
-Tags: [[ENG]]
+Tags: [[10ENG]]
 
 # 10ENG - Square 1; Literary Techniques
 ## The *More* Common Ones

@@ -2,7 +2,7 @@
 
 Status: #atomic
 
-Tags: [[TFT]]
+Tags: [[10TFT]]
 
 # Fruits
 ## Culinarily Vegetables

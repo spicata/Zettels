@@ -1,6 +1,6 @@
 202203082114
 
-Status: #activity
+Status: #review
 
 Tags: [[Genetics]] [[Evolution]], [[Biology]], [[10SCI]]
 
@@ -16,6 +16,6 @@ Mitosis ends with 2 new identical daughter cells with a diploid number of chromo
 Meiosis repeats the stages twice
 ## Genetics
 ## Evolution
-**Mechanisms of Evolution**: MnGG; or M & GG
-**Stages of Natural Selection**: VOC RHA
-**Isolation Mechanisms**: RGB; RGB RAGs
+**[[Mechanisms of Evolution]]**: MnGG; or M & GG
+**[[Natural Selection]]**: VOC RHA
+**[[Isolation Mechanism]]**: RGB; RGB RAGs

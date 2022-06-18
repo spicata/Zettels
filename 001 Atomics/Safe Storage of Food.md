@@ -2,7 +2,7 @@
 
 Status: #atomic
 
-Tags: [[Food]] 
+Tags: [[10TFT]] 
 
 # Safe Storage of Food
 ## Temperature

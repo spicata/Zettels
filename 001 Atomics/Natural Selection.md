@@ -2,9 +2,9 @@
 
 Status: #atomic
 
-Tags: [[Mechanisms of Evolution]]
+Tags: [[Mechanisms of Evolution]], [[10SCI]]
 
-# Natural Selection
+# 10SCI - Natural Selection
 ```ad-Picture
 
 ![[Pasted image 20220301103133.png]]
@@ -12,7 +12,7 @@ Darwin's finches. Notice the beaks, a product of natural selection.
 
 ```
 
-Natural selection occurs when selection pressures in the environment confer a selective advantage ocer a specific phenotype to enhance its survival and reproductions.
+Natural selection occurs when selection pressures in the environment prefer a selective advantage over a specific phenotype to enhance its survival and reproductions.
 It leads to changes in allele frequency in the gene pool of a population.
 Individuals that have certain inherited traits are more likely to survive and reproduce at higher rates than other individuals.
 ## Principles

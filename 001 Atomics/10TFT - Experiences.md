@@ -2,7 +2,7 @@
 
 Status: #experience
 
-Tags: [[TFT]], [[Experience]]
+Tags: [[10TFT]], [[Experience]]
 
 # 10TFT - Experiences
 Food safety risks -> Hygiene risks. (e.g. Cross-contamination, unsafe storage of food)

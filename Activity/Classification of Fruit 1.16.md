@@ -2,7 +2,7 @@
 
 Status: #activity
 
-Tags: [[Food]]
+Tags: [[10TFT]]
 
 # Classification of Fruit 1.16
 1. For each of the following cooking methods write down five examples of fruits and/or vegetables that are suited to that cooking method.

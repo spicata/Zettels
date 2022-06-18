@@ -2,9 +2,9 @@
 
 Status: #atomic
 
-Tags: [[Evolution]]
+Tags: [[Evolution]], [[10SCI]]
 
-# Isolation Mechanism
+# 10SCI - Isolation Mechanism
 ## Geographic
 Geographic isolation such as mountains, rivers, and islands, can seperate populations
 ### Allopatric Speciation

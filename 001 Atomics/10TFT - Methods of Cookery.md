@@ -2,7 +2,7 @@
 
 Status: #clumps
 
-Tags: [[TFT]]
+Tags: [[10TFT]]
 
 # 10TFT - Methods of Cookery
 ## Chapter 1: Conduction, Convection, Radiation

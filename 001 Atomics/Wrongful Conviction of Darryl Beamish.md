@@ -2,7 +2,7 @@
 
 Status: #atomic
 
-Tags: [[Faults in Law]], [[Natural Justice]], [[PAL]]
+Tags: [[Faults in Law]], [[Natural Justice]], [[10PAL]]
 
 # Wrongful Conviction of Darryl Beamish
 ```ad-tldr

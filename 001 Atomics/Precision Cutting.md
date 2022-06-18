@@ -2,7 +2,7 @@
 
 Status: #clumps 
 
-Tags: [[TFT]]
+Tags: [[10TFT]]
 
 # Precision Cutting
 ## Julienne

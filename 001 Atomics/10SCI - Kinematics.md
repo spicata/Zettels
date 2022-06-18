@@ -27,7 +27,7 @@ Tags: [[10SCI]]
 - **Velocity** is *vector* speed essentially. 
 	- $v_{av}=\frac{s}{t}$ where $v_{av}$ is *average velocity*, $s$ is *displacement*, $t$ is *time*
 - **Displacement** 
-- **Distance** is the *actual le4. ngth* of the *path a body takes*, *regardless of direction*, it is *scalar*
+- **Distance** is the *actual length* of the *path a body takes*, *regardless of direction*, it is *scalar*
 - **Speed** is the *distance travelled per unit of time*, it is *scalar*
 - **Velocity** is the *displacement* of a body *per unit of time*, it is *vector*
 - **Acceleration** is the *rate of change* of *velocity*, *vector*

@@ -2,7 +2,7 @@
 
 Status: #atomic
 
-Tags:
+Tags: [[10MAT]]
 
 # 10MAT - Investigation
 1. 

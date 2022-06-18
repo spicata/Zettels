@@ -2,7 +2,7 @@
 
 Status: #atomic
 
-Tags: [[Classification of Vegetables]]
+Tags: [[10TFT - Classification of Vegetables]]
 
 # Stems
 ```ad-example

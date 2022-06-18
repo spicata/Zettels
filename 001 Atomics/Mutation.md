@@ -2,9 +2,9 @@
 
 Status: #atomic
 
-Tags: [[Mechanisms of Evolution]]
+Tags: [[Mechanisms of Evolution]], [[10SCI]]
 
-# Mutation
+# 10SCI - Mutation
 A mutation is a source of new alleles in a population's gene pool.
 ```ad-Definition
 

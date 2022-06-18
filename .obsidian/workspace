@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "eb899229b7d74a3d",
+        "id": "7bde6933871e16eb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "001 Atomics/10SCI - Transcription and Translation.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "4a89e934db7935cd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001 Atomics/10SCI - Protein Synthesis.md",
-            "mode": "preview",
+            "file": "001 Atomics/10ENG - Task 5 Responding Essay.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -92,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Atomics/10SCI - Transcription and Translation.md",
+                "file": "001 Atomics/10ENG - Task 5 Responding Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Atomics/10SCI - Transcription and Translation.md",
+                "file": "001 Atomics/10ENG - Task 5 Responding Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 Atomics/10SCI - Transcription and Translation.md"
+                "file": "001 Atomics/10ENG - Task 5 Responding Essay.md"
               }
             }
           },
@@ -143,9 +130,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "8de923aadbc90337",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "380ae58f3f2e4433",
@@ -157,9 +152,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "001 Atomics/10SCI - Transcription and Translation.md",
+                "file": "001 Atomics/10ENG - Task 5 Responding Essay.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -180,7 +175,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7278834536913343,
+                  "scale": 1.062707361156806,
                   "close": true
                 }
               }
@@ -192,17 +187,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "eb899229b7d74a3d",
+  "active": "7bde6933871e16eb",
   "lastOpenFiles": [
-    "001 Atomics/10SCI - Transcription and Translation.md",
-    "001 Atomics/10SCI - Protein Synthesis.md",
-    "001 Atomics/Task 3 English Citations.md",
-    "001 Atomics/Journalling - 2022-05-05.md",
-    "001 Atomics/10PAL - International Politics.md",
-    "001 Atomics/Working Space.md",
-    "001 Atomics/Thinkers of Atomic Structure.md",
-    "00A Templates/Maps.md",
-    "001 Atomics/Genetics.md",
-    "001 Atomics/Classification of Vegetables.md"
+    "001 Atomics/10ENG - Task 5 Responding Essay.md",
+    "001 Atomics/10TUT - Conversion Rates.md",
+    "001 Atomics/10TUT - Heart and Head.md",
+    "001 Atomics/10LIT - Task 1; Victorian Summary.md",
+    "001 Atomics/10MAT - Investigation.md",
+    "Activity/Miscarriages of Justice study.md",
+    "001 Atomics/10TFT - Sustainability!.md",
+    "001 Atomics/10TCS - Cooling.md",
+    "001 Atomics/10TCS.md",
+    "001 Atomics/10TCS - Databases.md"
   ]
 }
