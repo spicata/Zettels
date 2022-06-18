@@ -6,7 +6,7 @@ Tags: [[10ENG]], [[10ENG - Task 4; August 2026, There Will Come Soft Rains]]
 
 # 10ENG - Task 5 Essays
 ## Comprehension 1
-In Caro Cooper's feature article "an ode to the mid-afternoon "
+In Caro Cooper's feature article "an ode to the mid-afternoon nap", repetition, personification, and imagery is used to portray rest as the best slution to tire. Cooper states that the "beast we used to battle... is dead", 
 ## Responding
 Understanding the context of production of a text enchances the interpretation of that story. This is exemplified in Ray Bradbury’s “There Will Come Soft Rains”, a speculative science-fiction short story set in a post-apocolyptic world, which depicts an automated house that carries on its duties despite the extinction of its human inhabitants. Bradbury wrote this text shortly after the end of World War Two, and admist the Cold War. He reflects the anti-war sentiment of society at that time, and shows humanity’s weariness of new technology. Furthermore, he depicts nature reclaiming the world, emphasising the true brevity of human kind illustrated in the World Wars.
 
