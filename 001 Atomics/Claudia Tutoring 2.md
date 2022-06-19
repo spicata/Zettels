@@ -1,6 +1,6 @@
 2022-04-06 16:07
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[Claudia Tutor]]
 

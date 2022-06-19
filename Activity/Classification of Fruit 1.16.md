@@ -1,6 +1,6 @@
 2202281151
 
-Status: #activity
+Tags: #activity
 
 Tags: [[10TFT]]
 

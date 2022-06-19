@@ -1,6 +1,6 @@
 {{date}} {{time}}
 
-Status: #daily
+Tags: #daily
 
 Tags: [[Daily]]
 

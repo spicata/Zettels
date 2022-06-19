@@ -1,6 +1,6 @@
 2202282055
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[10TCS]]
 

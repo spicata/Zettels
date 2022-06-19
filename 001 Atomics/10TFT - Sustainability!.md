@@ -1,6 +1,6 @@
 2022-05-10 14:46
 
-Status: #research
+Tags: #research
 
 Tags: [[10TFT]]
 

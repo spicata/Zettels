@@ -1,6 +1,6 @@
 2022-05-19 14:22
 
-Status: #lesson 
+Tags: #lesson 
 
 Tags: [[10SCI]]
 

@@ -1,6 +1,6 @@
 2022-05-23 16:22
 
-Status: #research #task
+Tags: #research #task
 
 Tags: [[10TCS]]
 

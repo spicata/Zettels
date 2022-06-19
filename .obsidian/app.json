@@ -21,5 +21,7 @@
   ],
   "spellcheck": false,
   "alwaysUpdateLinks": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "strictLineBreaks": true,
+  "showFrontmatter": false
 }

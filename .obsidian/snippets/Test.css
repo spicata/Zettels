@@ -1,18 +1,8 @@
+/*
 .cm-header-1,
 .markdown-preview-section h1 
 {
-    font-size: 48px;
-    font-weight: 800;
-    background: -webkit-linear-gradient(45deg, #09009f, #00ff95 80%);
-    background-image: -webkit-linear-gradient(45deg, rgb(9, 0, 159), rgb(0, 255, 149) 80%);
-    background-position-x: initial;
-    background-position-y: initial;
-    background-size: initial;
-    background-repeat-x: initial;
-    background-repeat-y: initial;
-    background-attachment: initial;
-    background-origin: initial;
-    background-color: initial;
+    background: -webkit-linear-gradient(45deg, #DA6362, #D77F48);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -22,7 +12,7 @@
 {
     background: -webkit-linear-gradient(45deg, #D77F48, #e3b54a);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: #D77F48;
+    -webkit-text-fill-color: transparent;
 }
 
 .cm-header-3,
@@ -52,4 +42,8 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: #6cb3c6;
 }
+*/
 
+hr {
+    color:red
+}

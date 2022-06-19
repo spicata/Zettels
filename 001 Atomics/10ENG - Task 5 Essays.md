@@ -1,12 +1,14 @@
 2022-06-16 10:21
 
-Status: #task 
+Tags: #task 
 
 Tags: [[10ENG]], [[10ENG - Task 4; August 2026, There Will Come Soft Rains]]
 
 # 10ENG - Task 5 Essays
 ## Comprehension 1
-In Caro Cooper's feature article "an ode to the mid-afternoon nap", repetition, personification, and imagery is used to portray rest as the best slution to tire. Cooper states that the "beast we used to battle... is dead", 
+In Caro Cooper's feature article "an ode to the mid-afternoon nap", repetition, personification, and imagery is used to portray rest as the best slution to tire. Cooper states that the "beast we used to battle... is dead",  where she uses personification to liken the 'mid afternoon skump' as a grandeous enemy that has finally been defeated, simply by resting. She emphasises the importance of this by repetition, in which she described that this slump "was cured by doing nothing. Literally nothing. The most nothing you can do," the repeating "nothing's" shows the significance of just sleeping. She states that this is required by our body, shown in "giant unstoppable yawns," the sensory imagery and exaggeration further emphasises the simple need for rest. Overall, Cooper represents rest as a simple solution to the 'mid afternoon slump' and shows how the pandemic had allowed people to do such.
+
+Cooper additionally implores readers to reconsider the layout of working days, through the use of a sarcastic yet casual tone, diction and personal comment
 ## Responding
 Understanding the context of production of a text enchances the interpretation of that story. This is exemplified in Ray Bradbury’s “There Will Come Soft Rains”, a speculative science-fiction short story set in a post-apocolyptic world, which depicts an automated house that carries on its duties despite the extinction of its human inhabitants. Bradbury wrote this text shortly after the end of World War Two, and admist the Cold War. He reflects the anti-war sentiment of society at that time, and shows humanity’s weariness of new technology. Furthermore, he depicts nature reclaiming the world, emphasising the true brevity of human kind illustrated in the World Wars.
 

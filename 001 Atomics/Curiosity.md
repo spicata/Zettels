@@ -1,6 +1,6 @@
 2022-04-11 16:44
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[Thoughts]]
 

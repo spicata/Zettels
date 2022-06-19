@@ -1,6 +1,6 @@
 2022-06-18 10:06
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[10TUT]] 
 

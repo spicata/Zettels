@@ -1,6 +1,6 @@
 {{date}} {{time}}
 
-Status: #activity
+Tags: #activity
 
 Tags:
 

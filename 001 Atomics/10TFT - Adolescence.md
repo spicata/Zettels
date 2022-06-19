@@ -1,6 +1,6 @@
 2022-05-19 13:21
 
-Status: #lesson 
+Tags: #lesson 
 
 Tags: [[10TFT]]
 

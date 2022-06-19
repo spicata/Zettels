@@ -1,6 +1,6 @@
 2022-05-17 08:47
 
-Status: #lesson #clumps
+Tags: #lesson #clumps
 
 Tags: [[10SCI]]
 

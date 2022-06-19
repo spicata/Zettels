@@ -1,4 +1,4 @@
-Status: #atomic
+Tags: #atomic
 
 Tags: [[Thinkers of Atomic Structure]]
 

@@ -1,6 +1,6 @@
 2022-05-24 17:39
 
-Status: #lesson #experience 
+Tags: #lesson #experience 
 
 Tags: [[10ENG]]
 

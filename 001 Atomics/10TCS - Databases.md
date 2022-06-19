@@ -1,6 +1,6 @@
 2022-04-08 09:37
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[10TCS]]
 

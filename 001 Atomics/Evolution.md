@@ -1,6 +1,6 @@
 2203010926
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[Evolution]], [[10SCI]]
 

@@ -1,6 +1,6 @@
 202203162047
 
-Status: #waypoints 
+Tags: #waypoints 
 
 Tags: [[Biology]], [[10SCI]]
 

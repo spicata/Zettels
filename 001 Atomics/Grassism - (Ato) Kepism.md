@@ -1,6 +1,6 @@
 2022-04-12 22:00
 
-Status: #personal
+Tags: #personal
 
 Tags:
 

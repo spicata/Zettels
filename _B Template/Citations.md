@@ -1,5 +1,5 @@
 {{date}} {{time}}
 
-Status: #citations
+Tags: #citations
 
 # {{title}}

@@ -1,6 +1,6 @@
 202203151721
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[Thinkers of Atomic Structure]]
 

@@ -1,6 +1,6 @@
 2022-05-01 17:40
 
-Status: #text
+Tags: #text
 
 Tags: [[Analysis]]
 

@@ -1,6 +1,6 @@
 2022-05-02 13:47
 
-Status: #experience
+Tags: #experience
 
 Tags: [[10TFT]], [[Experience]]
 

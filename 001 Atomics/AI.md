@@ -1,6 +1,6 @@
 202203180904
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[Software]]
 

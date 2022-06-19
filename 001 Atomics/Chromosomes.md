@@ -1,6 +1,6 @@
 2202272107
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[DNA]] [[Genetics]]
 

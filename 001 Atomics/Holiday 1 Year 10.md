@@ -1,6 +1,6 @@
 2022-04-11 08:03
 
-Status: #daily
+Tags: #daily
 
 Tags: [[Daily]]
 

@@ -1,6 +1,6 @@
 2022-05-13 14:51
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[10MAT]]
 

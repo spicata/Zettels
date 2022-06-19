@@ -1,6 +1,6 @@
 202203080920
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[Mechanisms of Evolution]], [[10SCI]]
 

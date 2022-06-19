@@ -1,6 +1,6 @@
 2202271127
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[Claudia Tutor]], [[Financial Maths]]
 

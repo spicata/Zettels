@@ -1,8 +1,7 @@
 {{date}} {{time}}
 
-Status: #waypoints 
+Tags: #task 
 
 Tags:
 
 # {{title}}
-

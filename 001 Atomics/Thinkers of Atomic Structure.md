@@ -1,6 +1,6 @@
 202203141818
 
-Status: #waypoints 
+Tags: #waypoints 
 
 Tags: [[Atoms]], [[10SCI]]
 

@@ -1,6 +1,6 @@
 2202271630
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[Genetics]], [[10SCI]]
 

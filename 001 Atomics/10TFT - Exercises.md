@@ -1,6 +1,6 @@
 2022-06-09 15:38
 
-Status: #activity #review 
+Tags: #activity #review 
 
 Tags: [[10TFT]]
 

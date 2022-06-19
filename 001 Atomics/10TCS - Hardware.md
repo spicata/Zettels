@@ -1,6 +1,6 @@
 2022-05-27 10:22
 
-Status: #lesson 
+Tags: #lesson 
 
 Tags: [[10TCS]]
 

@@ -1,6 +1,6 @@
 202203141142
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[Food Preperation]]
 

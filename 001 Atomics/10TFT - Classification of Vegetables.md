@@ -1,6 +1,6 @@
 1202203141159
 
-Status: #waypoints 
+Tags: #waypoints 
 
 Tags: [[10TFT]]
 

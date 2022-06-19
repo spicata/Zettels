@@ -1,6 +1,6 @@
 {{date}} {{time}}
 
-Status: #atomic
+Tags: #review
 
 Tags:
 

@@ -1,6 +1,6 @@
 202203040926
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[Internet]]
 

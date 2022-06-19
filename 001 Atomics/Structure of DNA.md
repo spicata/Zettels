@@ -1,6 +1,6 @@
 202203081752
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[DNA]]
 

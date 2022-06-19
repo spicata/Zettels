@@ -1,6 +1,6 @@
 2022-06-08 09:50
 
-Status: #waypoints 
+Tags: #waypoints 
 
 Tags: [[10]]
 

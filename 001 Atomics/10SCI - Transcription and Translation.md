@@ -1,6 +1,6 @@
 2022-06-05 16:37
 
-Status: #atomic 
+Tags: #atomic 
 
 Tags: [[Biology]], [[10SCI]]
 

@@ -1,6 +1,6 @@
 202203162018
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[10TFT]]
 

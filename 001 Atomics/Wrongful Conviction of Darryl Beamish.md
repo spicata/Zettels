@@ -1,6 +1,6 @@
 2202261743
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[Faults in Law]], [[Natural Justice]], [[10PAL]]
 

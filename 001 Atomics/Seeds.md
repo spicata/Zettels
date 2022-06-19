@@ -1,6 +1,6 @@
 202203162017
 
-Status: #atomic
+Tags: #atomic
 
 Tags: [[10TFT - Classification of Vegetables]]
 

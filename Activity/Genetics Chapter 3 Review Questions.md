@@ -1,6 +1,6 @@
 202203092005
 
-Status: #activity
+Tags: #activity
 
 Tags: [[Genetics]]
 

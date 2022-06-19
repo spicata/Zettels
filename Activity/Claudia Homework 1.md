@@ -1,6 +1,6 @@
 2022-03-26 14:25
 
-Status: #activity
+Tags: #activity
 
 Tags: [[Claudia Tutor]]
 
