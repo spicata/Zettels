@@ -25,4 +25,4 @@ Some characteristics of seed files would be:
 - Only includes a template
 - Is completely empty
 
-Some seed files will serve no purpose. These seed files should be flagged for deletion or simply ignored
+Some seed files will serve no purpose. These seed files should be flagged for deletion or simply ignored.
