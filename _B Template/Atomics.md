@@ -1,6 +1,6 @@
 {{date}} {{time}}
 
-Tags: #atomic
+Tags: #atomic #🌰
 
 Tags:
 

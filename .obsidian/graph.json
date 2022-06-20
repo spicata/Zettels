@@ -76,9 +76,16 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "tag:#documentation",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.3,
   "nodeSizeMultiplier": 2.99210731381498,
@@ -88,6 +95,6 @@
   "repelStrength": 15.7953912946677,
   "linkStrength": 0.747022152955583,
   "linkDistance": 401,
-  "scale": 0.10098090149942326,
+  "scale": 0.12119377410489264,
   "close": true
 }
