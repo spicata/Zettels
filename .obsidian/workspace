@@ -164,7 +164,15 @@
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": false,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "tag:#🌰",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -190,14 +198,14 @@
   "active": "132e7afb5fb911b8",
   "lastOpenFiles": [
     "001 Atomics/10SCI - Laws of Motion.md",
+    "001 Atomics/Second Law of Motion.md",
+    "001 Atomics/First Law of Motion.md",
+    "001 Atomics/Friction.md",
+    "001 Atomics/Forces.md",
     "_B Template/Atomics.md",
     "_A Documentation/Documentaton; Tags.md",
     "001 Atomics/10TFT - Sustainability!.md",
     "001 Atomics/Documentation; Tags; Seed Example.md",
-    "_B Template/Documentation.md",
-    "_B Template/Daily.md",
-    "001 Atomics/10ENG - Task 5 Essays.md",
-    "001 Atomics/10TUT - Conversion Rates.md",
-    "001 Atomics/10TUT - Heart and Head.md"
+    "_B Template/Documentation.md"
   ]
 }
