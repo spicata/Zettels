@@ -1,6 +1,6 @@
 2022-06-20 09:02
 
-Tags: #atomic #🌰
+Tags: #atomic #🌱
 
 Links: [[10SCI]]
 
