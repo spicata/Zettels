@@ -2,9 +2,7 @@
 .cm-header-1,
 .markdown-preview-section h1 
 {
-    background: -webkit-linear-gradient(45deg, #DA6362, #D77F48);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(45deg, #DA6362, #D77F48);-webkit-background-clip: text;-webkit-text-fill-color: transparent;
 }
 
 .cm-header-2,
